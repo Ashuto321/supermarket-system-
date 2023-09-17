@@ -1,0 +1,3 @@
+ 12 lakpa 1200 1
+ 10 ashutosh 1.23e+06 1
+ 11 butter  100 2
